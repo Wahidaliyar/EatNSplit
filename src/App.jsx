@@ -21,5 +21,5 @@ const initialFriends = [
 
 
 export default function App() {
-  return <div className="app">Hello</div>
+  return <div className="app">How are you?</div>
 }
